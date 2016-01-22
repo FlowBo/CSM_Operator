@@ -1,0 +1,36 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2FA8C17CCF97862D57C83E3BF0ABD2A6EB18A4F7" : 0,
+    "AD4B458D0D225ED63FAE0155615993B7D3ECE020" : 0,
+    "B459FE0A53C44384200C7127659344E375B282F7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7E910A85-49D7-4982-91D6-EA3A5717DC9E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2FA8C17CCF97862D57C83E3BF0ABD2A6EB18A4F7" : "",
+    "AD4B458D0D225ED63FAE0155615993B7D3ECE020" : "..\/Cinder_0.9",
+    "B459FE0A53C44384200C7127659344E375B282F7" : "..\/Cinder_0.9\/blocks\/Cinder-UI"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CSM_Operator",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "xcode\/CSM_Operator.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:FlowBo\/Cinder_Apps.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2FA8C17CCF97862D57C83E3BF0ABD2A6EB18A4F7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cinder\/Cinder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AD4B458D0D225ED63FAE0155615993B7D3ECE020"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rezaali\/Cinder-UI.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B459FE0A53C44384200C7127659344E375B282F7"
+    }
+  ]
+}
